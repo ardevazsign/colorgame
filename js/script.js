@@ -36,6 +36,7 @@ function setupSquares() {
                 this.style.backgroundColor = "#232323";
                 messageDisplay.textContent = "Try again";
                 messageDisplay.style.fontSize = "42px";
+                messageDisplay.style.backgroundColor = "aqua";
             }
         });
     }

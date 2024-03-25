@@ -51,7 +51,7 @@ h1{ color: white;
 #message{
     text-transform: uppercase;
     color: blue;
-    font-size: 1.5em;
+    font-size: 3.5em;
     display: inline-block;
     width: 20%;
     text-shadow: 2px 1px rgba(0, 0, 0, 0.2);
