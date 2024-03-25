@@ -35,6 +35,7 @@ function setupSquares() {
             } else {
                 this.style.backgroundColor = "#232323";
                 messageDisplay.textContent = "Try again";
+                messageDisplay.style.fontSize = "42px";
             }
         });
     }
